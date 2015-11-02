@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 #
+#  Copyright (c) 2015, Fabian Pollesböck
 #  Copyright (c) 2013, 2015, Corey Goldberg
 #
 #  Dev: https://github.com/cgoldberg/py-slideshow
