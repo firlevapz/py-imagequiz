@@ -1,11 +1,10 @@
 ==============================
-py-slideshow - image slideshow
+py-imagequiz - image slideshow
 ==============================
 
-Random image slideshow in Python with OpenGL pan/zoom effects.
+Random image quiz, where the player has to guess the filename of the image displayed (usually place and time where picture was taken). Python 3, pyglet with OpenGL pan/zoom effects.
 
-.. image:: icon.png
-
+* Fabian Pollesböck, (c) 2015
 * Corey Goldberg, (c) 2013, (http://goldb.org)
 * License: GNU GPLv3
 
@@ -13,7 +12,7 @@ Random image slideshow in Python with OpenGL pan/zoom effects.
 
 **Requirements**:
 
-* Python 2.7+ or 3.2+
+* Python 3.2+
 * pyglet
 
 **Command Line Help**::
@@ -26,6 +25,6 @@ Random image slideshow in Python with OpenGL pan/zoom effects.
 
 **Example**::
 
-    $ git clone https://github.com/cgoldberg/py-slideshow.git
+    $ git clone https://github.com/firlevapz/py-slideshow.git
     $ cd py-slideshow
     $ python slideshow.py /home/cgoldberg/images/
