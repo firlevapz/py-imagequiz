@@ -25,6 +25,6 @@ Random image quiz, where the player has to guess the filename of the image displ
 
 **Example**::
 
-    $ git clone https://github.com/firlevapz/py-slideshow.git
-    $ cd py-slideshow
-    $ python slideshow.py /home/cgoldberg/images/
+    $ git clone https://github.com/firlevapz/py-imagequiz.git
+    $ cd py-imagequiz
+    $ python slideshow.py <image-directory>
